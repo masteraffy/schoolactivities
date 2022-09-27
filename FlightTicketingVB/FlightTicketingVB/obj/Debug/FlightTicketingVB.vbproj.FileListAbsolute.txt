@@ -1,0 +1,13 @@
+C:\Users\RAFFY\source\repos\FlightTicketingVB\FlightTicketingVB\bin\Debug\FlightTicketingVB.exe.config
+C:\Users\RAFFY\source\repos\FlightTicketingVB\FlightTicketingVB\bin\Debug\FlightTicketingVB.exe
+C:\Users\RAFFY\source\repos\FlightTicketingVB\FlightTicketingVB\bin\Debug\FlightTicketingVB.pdb
+C:\Users\RAFFY\source\repos\FlightTicketingVB\FlightTicketingVB\bin\Debug\FlightTicketingVB.xml
+C:\Users\RAFFY\source\repos\FlightTicketingVB\FlightTicketingVB\obj\Debug\FlightTicketingVB.vbproj.AssemblyReference.cache
+C:\Users\RAFFY\source\repos\FlightTicketingVB\FlightTicketingVB\obj\Debug\FlightTicketingVB.vbproj.SuggestedBindingRedirects.cache
+C:\Users\RAFFY\source\repos\FlightTicketingVB\FlightTicketingVB\obj\Debug\FlightTicketingVB.Resources.resources
+C:\Users\RAFFY\source\repos\FlightTicketingVB\FlightTicketingVB\obj\Debug\FlightTicketingVB.vbproj.GenerateResource.cache
+C:\Users\RAFFY\source\repos\FlightTicketingVB\FlightTicketingVB\obj\Debug\FlightTicketingVB.vbproj.CoreCompileInputs.cache
+C:\Users\RAFFY\source\repos\FlightTicketingVB\FlightTicketingVB\obj\Debug\FlightTicketingVB.exe
+C:\Users\RAFFY\source\repos\FlightTicketingVB\FlightTicketingVB\obj\Debug\FlightTicketingVB.xml
+C:\Users\RAFFY\source\repos\FlightTicketingVB\FlightTicketingVB\obj\Debug\FlightTicketingVB.pdb
+C:\Users\RAFFY\source\repos\FlightTicketingVB\FlightTicketingVB\obj\Debug\FlightTicketingVB.MyApplication.resources
